@@ -1,0 +1,541 @@
+{
+  "temples": [
+    {
+      "id": "angkor-wat",
+      "title": "Angkor Wat",
+      "slug": "angkor-wat",
+      "summary": "The iconic heart of Angkor—an immense temple-mountain surrounded by moats and causeways.",
+      "descriptions": [
+        {
+          "label": "Overview",
+          "text": "Built in the Khmer imperial era, Angkor Wat blends grand symmetry with detailed bas‑reliefs and soaring towers. Originally Hindu and later Buddhist, it remains Cambodia’s most celebrated monument."
+        },
+        {
+          "label": "Details",
+          "text": "Visitors come for sunrise reflections in the moat, kilometer‑long reliefs of epics and history, and the central quincunx of towers that symbolizes Mount Meru."
+        }
+      ],
+      "images": [
+        {
+          "role": "cover",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/d4/20171126_Angkor_Wat_4712_DxO.jpg",
+          "thumb": "",
+          "alt": "",
+          "credit": "",
+          "license": ""
+        },
+        {
+          "role": "gallery",
+          "url": "",
+          "alt": ""
+        },
+        {
+          "role": "gallery",
+          "url": "",
+          "alt": ""
+        }
+      ],
+      "tags": [
+        "temple",
+        "Angkor",
+        "Khmer",
+        "Hindu",
+        "Buddhist",
+        "sunrise"
+      ],
+      "location": {
+        "country": "Cambodia",
+        "province": "Siem Reap",
+        "lat": null,
+        "lng": null
+      },
+      "rating": null,
+      "links": {
+        "wikipedia": ""
+      },
+      "updatedAt": "2025-08-27T00:00:00Z"
+    },
+    {
+      "id": "bayon",
+      "title": "Bayon",
+      "slug": "bayon",
+      "summary": "A mesmerizing maze of towers carved with serene faces at the center of Angkor Thom.",
+      "descriptions": [
+        {
+          "label": "Overview",
+          "text": "Bayon is famed for its multitude of smiling stone faces and vivid bas‑reliefs depicting daily life and battles. It served as a state temple during a late Angkor period."
+        },
+        {
+          "label": "Details",
+          "text": "Narrow corridors, elevated terraces, and clusters of face‑towers create shifting perspectives that reward slow exploration and close observation."
+        }
+      ],
+      "images": [
+        {
+          "role": "cover",
+          "url": "",
+          "thumb": "",
+          "alt": "",
+          "credit": "",
+          "license": ""
+        },
+        {
+          "role": "gallery",
+          "url": "",
+          "alt": ""
+        },
+        {
+          "role": "gallery",
+          "url": "",
+          "alt": ""
+        }
+      ],
+      "tags": [
+        "temple",
+        "Angkor Thom",
+        "faces",
+        "bas-reliefs",
+        "Khmer"
+      ],
+      "location": {
+        "country": "Cambodia",
+        "province": "Siem Reap",
+        "lat": null,
+        "lng": null
+      },
+      "rating": null,
+      "links": {
+        "wikipedia": ""
+      },
+      "updatedAt": "2025-08-27T00:00:00Z"
+    },
+    {
+      "id": "banteay-srei",
+      "title": "Banteay Srei",
+      "slug": "banteay-srei",
+      "summary": "A small but exquisite temple renowned for pink sandstone and jewel‑like carvings.",
+      "descriptions": [
+        {
+          "label": "Overview",
+          "text": "Nicknamed the 'Citadel of Women', Banteay Srei showcases some of the most intricate stone carvings in the Angkor region."
+        },
+        {
+          "label": "Details",
+          "text": "Its compact layout, warm sandstone tones, and delicate lintels and pediments make it ideal for close‑up photography and study of Khmer ornament."
+        }
+      ],
+      "images": [
+        {
+          "role": "cover",
+          "url": "",
+          "thumb": "",
+          "alt": "",
+          "credit": "",
+          "license": ""
+        },
+        {
+          "role": "gallery",
+          "url": "",
+          "alt": ""
+        },
+        {
+          "role": "gallery",
+          "url": "",
+          "alt": ""
+        }
+      ],
+      "tags": [
+        "temple",
+        "pink sandstone",
+        "carvings",
+        "Khmer",
+        "artisanry"
+      ],
+      "location": {
+        "country": "Cambodia",
+        "province": "Siem Reap",
+        "lat": null,
+        "lng": null
+      },
+      "rating": null,
+      "links": {
+        "wikipedia": ""
+      },
+      "updatedAt": "2025-08-27T00:00:00Z"
+    },
+    {
+      "id": "ta-keo",
+      "title": "Ta Keo",
+      "slug": "ta-keo",
+      "summary": "A stark, unfinished mountain temple of massive sandstone blocks and steep stairways.",
+      "descriptions": [
+        {
+          "label": "Overview",
+          "text": "Ta Keo’s clean lines and lack of decoration highlight its bold, pyramidal form. It offers a glimpse of monumental construction mid‑process."
+        },
+        {
+          "label": "Details",
+          "text": "Climbing the steep tiers gives wide views and reveals how Khmer architects stacked huge courses to evoke the cosmic mountain."
+        }
+      ],
+      "images": [
+        {
+          "role": "cover",
+          "url": "",
+          "thumb": "",
+          "alt": "",
+          "credit": "",
+          "license": ""
+        },
+        {
+          "role": "gallery",
+          "url": "",
+          "alt": ""
+        },
+        {
+          "role": "gallery",
+          "url": "",
+          "alt": ""
+        }
+      ],
+      "tags": [
+        "temple",
+        "pyramid",
+        "unfinished",
+        "sandstone",
+        "steep"
+      ],
+      "location": {
+        "country": "Cambodia",
+        "province": "Siem Reap",
+        "lat": null,
+        "lng": null
+      },
+      "rating": null,
+      "links": {
+        "wikipedia": ""
+      },
+      "updatedAt": "2025-08-27T00:00:00Z"
+    },
+    {
+      "id": "preah-vihear",
+      "title": "Preah Vihear",
+      "slug": "preah-vihear",
+      "summary": "A dramatic cliff‑top temple straddling the Dangrek escarpment with sweeping views.",
+      "descriptions": [
+        {
+          "label": "Overview",
+          "text": "Laid out along a long axis that ascends through a series of gopuras, Preah Vihear rewards visitors with both architecture and horizon."
+        },
+        {
+          "label": "Details",
+          "text": "Its sequence of terraces and sanctuaries culminates near the cliff edge, making the journey itself part of the experience."
+        }
+      ],
+      "images": [
+        {
+          "role": "cover",
+          "url": "",
+          "thumb": "",
+          "alt": "",
+          "credit": "",
+          "license": ""
+        },
+        {
+          "role": "gallery",
+          "url": "",
+          "alt": ""
+        },
+        {
+          "role": "gallery",
+          "url": "",
+          "alt": ""
+        }
+      ],
+      "tags": [
+        "temple",
+        "cliff-top",
+        "axial plan",
+        "views"
+      ],
+      "location": {
+        "country": "Cambodia",
+        "province": "Preah Vihear",
+        "lat": null,
+        "lng": null
+      },
+      "rating": null,
+      "links": {
+        "wikipedia": ""
+      },
+      "updatedAt": "2025-08-27T00:00:00Z"
+    },
+    {
+      "id": "banteay-samre",
+      "title": "Banteay Samre",
+      "slug": "banteay-samre",
+      "summary": "A refined Angkor Wat–style temple set amid quiet laterite walls and courtyards.",
+      "descriptions": [
+        {
+          "label": "Overview",
+          "text": "Banteay Samre features balanced proportions, well‑preserved galleries, and a harmonious ensemble of towers and enclosures."
+        },
+        {
+          "label": "Details",
+          "text": "The inner courtyard and cruciform terraces showcase elegant Khmer detailing that photographers love in soft afternoon light."
+        }
+      ],
+      "images": [
+        {
+          "role": "cover",
+          "url": "",
+          "thumb": "",
+          "alt": "",
+          "credit": "",
+          "license": ""
+        },
+        {
+          "role": "gallery",
+          "url": "",
+          "alt": ""
+        },
+        {
+          "role": "gallery",
+          "url": "",
+          "alt": ""
+        }
+      ],
+      "tags": [
+        "temple",
+        "Angkor style",
+        "laterite",
+        "galleries"
+      ],
+      "location": {
+        "country": "Cambodia",
+        "province": "Siem Reap",
+        "lat": null,
+        "lng": null
+      },
+      "rating": null,
+      "links": {
+        "wikipedia": ""
+      },
+      "updatedAt": "2025-08-27T00:00:00Z"
+    },
+    {
+      "id": "preah-khan",
+      "title": "Preah Khan",
+      "slug": "preah-khan",
+      "summary": "A sprawling monastic complex of corridors, libraries, and tree‑shaded courtyards.",
+      "descriptions": [
+        {
+          "label": "Overview",
+          "text": "Preah Khan functioned as a Buddhist center with space for learning and ceremony, later incorporating Hindu elements."
+        },
+        {
+          "label": "Details",
+          "text": "Long, atmospheric passageways, boundary stones, and delicate carvings invite exploration much like its famous sibling Ta Prohm—without the same crowds."
+        }
+      ],
+      "images": [
+        {
+          "role": "cover",
+          "url": "",
+          "thumb": "",
+          "alt": "",
+          "credit": "",
+          "license": ""
+        },
+        {
+          "role": "gallery",
+          "url": "",
+          "alt": ""
+        },
+        {
+          "role": "gallery",
+          "url": "",
+          "alt": ""
+        }
+      ],
+      "tags": [
+        "temple",
+        "monastic",
+        "corridors",
+        "Khmer",
+        "atmospheric"
+      ],
+      "location": {
+        "country": "Cambodia",
+        "province": "Siem Reap",
+        "lat": null,
+        "lng": null
+      },
+      "rating": null,
+      "links": {
+        "wikipedia": ""
+      },
+      "updatedAt": "2025-08-27T00:00:00Z"
+    },
+    {
+      "id": "pre-rup",
+      "title": "Pre Rup",
+      "slug": "pre-rup",
+      "summary": "A brick‑and‑laterite temple‑mountain often praised for warm sunset tones.",
+      "descriptions": [
+        {
+          "label": "Overview",
+          "text": "Pre Rup’s tiered pyramid and central sanctuary echo the cosmic mountain theme central to Khmer sacred architecture."
+        },
+        {
+          "label": "Details",
+          "text": "Its brick towers and laterite platforms glow at day’s end, while steep stairways lead to broad views over the surrounding plain."
+        }
+      ],
+      "images": [
+        {
+          "role": "cover",
+          "url": "",
+          "thumb": "",
+          "alt": "",
+          "credit": "",
+          "license": ""
+        },
+        {
+          "role": "gallery",
+          "url": "",
+          "alt": ""
+        },
+        {
+          "role": "gallery",
+          "url": "",
+          "alt": ""
+        }
+      ],
+      "tags": [
+        "temple",
+        "brick",
+        "laterite",
+        "sunset",
+        "pyramid"
+      ],
+      "location": {
+        "country": "Cambodia",
+        "province": "Siem Reap",
+        "lat": null,
+        "lng": null
+      },
+      "rating": null,
+      "links": {
+        "wikipedia": ""
+      },
+      "updatedAt": "2025-08-27T00:00:00Z"
+    },
+    {
+      "id": "phnom-bakheng",
+      "title": "Phnom Bakheng",
+      "slug": "phnom-bakheng",
+      "summary": "A hilltop state temple offering panoramic views over Angkor and the surrounding forest.",
+      "descriptions": [
+        {
+          "label": "Overview",
+          "text": "Phnom Bakheng is one of Angkor’s earliest major temples, built on a natural hill to align city, kingship, and sacred geography."
+        },
+        {
+          "label": "Details",
+          "text": "The ascent rewards with vistas toward Angkor Wat and Tonlé Sap, making it a popular spot in the golden hour."
+        }
+      ],
+      "images": [
+        {
+          "role": "cover",
+          "url": "",
+          "thumb": "",
+          "alt": "",
+          "credit": "",
+          "license": ""
+        },
+        {
+          "role": "gallery",
+          "url": "",
+          "alt": ""
+        },
+        {
+          "role": "gallery",
+          "url": "",
+          "alt": ""
+        }
+      ],
+      "tags": [
+        "temple",
+        "hilltop",
+        "panorama",
+        "sunset"
+      ],
+      "location": {
+        "country": "Cambodia",
+        "province": "Siem Reap",
+        "lat": null,
+        "lng": null
+      },
+      "rating": null,
+      "links": {
+        "wikipedia": ""
+      },
+      "updatedAt": "2025-08-27T00:00:00Z"
+    },
+    {
+      "id": "preah-ko",
+      "title": "Preah Ko",
+      "slug": "preah-ko",
+      "summary": "An early Angkor monument at Roluos noted for graceful brick towers and sandstone detail.",
+      "descriptions": [
+        {
+          "label": "Overview",
+          "text": "Named for the sacred bull, Preah Ko honors royal ancestors and showcases early Khmer brickwork with stucco traces."
+        },
+        {
+          "label": "Details",
+          "text": "Trioed front towers, elegant lintels, and guardian statues mark a foundational moment in Khmer temple design."
+        }
+      ],
+      "images": [
+        {
+          "role": "cover",
+          "url": "",
+          "thumb": "",
+          "alt": "",
+          "credit": "",
+          "license": ""
+        },
+        {
+          "role": "gallery",
+          "url": "",
+          "alt": ""
+        },
+        {
+          "role": "gallery",
+          "url": "",
+          "alt": ""
+        }
+      ],
+      "tags": [
+        "temple",
+        "Roluos",
+        "brick",
+        "early Khmer"
+      ],
+      "location": {
+        "country": "Cambodia",
+        "province": "Siem Reap",
+        "lat": null,
+        "lng": null
+      },
+      "rating": null,
+      "links": {
+        "wikipedia": ""
+      },
+      "updatedAt": "2025-08-27T00:00:00Z"
+    }
+  ]
+}
