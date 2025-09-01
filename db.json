@@ -73,7 +73,7 @@
       "images": [
         {
           "role": "cover",
-          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Bayon_0759_%2827773814040%29.jpg/500px-Bayon_0759_%2827773814040%29.jpg",
+          "url": "https://raw.githubusercontent.com/Chanchhay/js-mini-project/refs/heads/master/docs/images/bayon.png",
           "thumb": "",
           "alt": "",
           "credit": "",
@@ -127,7 +127,7 @@
       "images": [
         {
           "role": "cover",
-          "url": "https://raw.githubusercontent.com/Chanchhay/js-mini-project/refs/heads/master/src/images/image_2025-08-15_08-48-08.png",
+          "url": "https://raw.githubusercontent.com/Chanchhay/js-mini-project/refs/heads/master/docs/images/banteay-srei.png",
           "thumb": "",
           "alt": "",
           "credit": "",
@@ -235,7 +235,7 @@
       "images": [
         {
           "role": "cover",
-          "url": "https://raw.githubusercontent.com/Chanchhay/js-mini-project/refs/heads/master/src/images/image_2025-08-15_08-57-59.png",
+          "url": "https://raw.githubusercontent.com/Chanchhay/js-mini-project/refs/heads/master/docs/images/preah-vihear.png",
           "thumb": "",
           "alt": "",
           "credit": "",
@@ -288,7 +288,7 @@
       "images": [
         {
           "role": "cover",
-          "url": "https://raw.githubusercontent.com/Chanchhay/js-mini-project/refs/heads/master/src/images/image_2025-08-15_09-02-22.png",
+          "url": "https://raw.githubusercontent.com/Chanchhay/js-mini-project/refs/heads/master/docs/images/banteay-samre.png",
           "thumb": "",
           "alt": "",
           "credit": "",
@@ -341,7 +341,7 @@
       "images": [
         {
           "role": "cover",
-          "url": "https://raw.githubusercontent.com/Chanchhay/js-mini-project/refs/heads/master/src/images/image_2025-08-15_09-15-10.png",
+          "url": "https://raw.githubusercontent.com/Chanchhay/js-mini-project/refs/heads/master/docs/images/preah-khan.png",
           "thumb": "",
           "alt": "",
           "credit": "",
@@ -395,7 +395,7 @@
       "images": [
         {
           "role": "cover",
-          "url": "https://raw.githubusercontent.com/Chanchhay/js-mini-project/refs/heads/master/src/images/image_2025-08-15_09-16-46.png",
+          "url": "https://raw.githubusercontent.com/Chanchhay/js-mini-project/refs/heads/master/docs/images/pre-rub.png",
           "thumb": "",
           "alt": "",
           "credit": "",
@@ -449,7 +449,7 @@
       "images": [
         {
           "role": "cover",
-          "url": "https://raw.githubusercontent.com/Chanchhay/js-mini-project/refs/heads/master/src/images/image_2025-08-15_09-21-17.png",
+          "url": "https://raw.githubusercontent.com/Chanchhay/js-mini-project/refs/heads/master/docs/images/bakheng.png",
           "thumb": "",
           "alt": "",
           "credit": "",
@@ -502,7 +502,7 @@
       "images": [
         {
           "role": "cover",
-          "url": "https://raw.githubusercontent.com/Chanchhay/js-mini-project/refs/heads/master/src/images/image_2025-08-15_09-23-37.png",
+          "url": "https://raw.githubusercontent.com/Chanchhay/js-mini-project/refs/heads/master/docs/images/preah-ko.png",
           "thumb": "",
           "alt": "",
           "credit": "",
